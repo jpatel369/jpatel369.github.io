@@ -1,5 +1,5 @@
 body {
-  background-color: #E9C893;
+  background-color: #A9A9A9;
   font-family: "Lato"; /* OPTIONAL: Google Fonts - base font */
   font-weight: 300;
   font-size: 16px;
@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat"; /* OPTIONAL: Google Fonts - title font */
   font-weight: 300;
   color: #333;
-}
+}3
 
 /* Paragraph & Typographic */
 p {
