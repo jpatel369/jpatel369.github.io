@@ -10,11 +10,17 @@ body {
 }
 
 /* Titles */
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h4, h5, h6 {
   font-family: "Montserrat"; /* OPTIONAL: Google Fonts - title font */
   font-weight: 300;
   color: #333;
-}3
+}
+
+h3 {
+  font-family: "Montserrat"; /* OPTIONAL: Google Fonts - title font */
+  font-weight: 400;
+  color: #333;
+}
 
 /* Paragraph & Typographic */
 p {
@@ -70,7 +76,7 @@ a:after {
 /* Header Wrap */
 .header {
   background: #1CBCAD;
-  background: url(../images/treespic.jpg) no-repeat center top;
+  background: url(../images/treeback.png) no-repeat center top;
   padding-top:140px;
   text-align:center;
   background-attachment: relative;
