@@ -118,10 +118,13 @@ a:after {
   color: white;
 } 
 
-.about h5, p {
+.about h5 {
   color: white;
 }
 
+.about p {
+  color: #E9C893;
+}
 .about i {
   color: #E9C893;
   font-size: 20px;
