@@ -3,7 +3,7 @@ body {
   font-family: "Lato"; /* OPTIONAL: Google Fonts - base font */
   font-weight: 300;
   font-size: 16px;
-  color: #555;
+  color: #333;
 
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
@@ -13,13 +13,13 @@ body {
 h1, h2, h4, h5, h6 {
   font-family: "Montserrat"; /* OPTIONAL: Google Fonts - title font */
   font-weight: 300;
-  color: #333;
+  color: #1E392A;
 }
 
 h3 {
   font-family: "Montserrat"; /* OPTIONAL: Google Fonts - title font */
   font-weight: 400;
-  color: #333;
+  color: #1E392A;
 }
 
 /* Paragraph & Typographic */
@@ -102,7 +102,7 @@ a:after {
 }
 
 .header h3 {
-  font-size: 20px;
+  font-size: 25px;
   color: white;
 }
 
