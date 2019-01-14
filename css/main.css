@@ -1,5 +1,5 @@
 body {
-  background-color: #F4DCC7;
+  background-color: #A9A9A9;
   font-family: "Lato"; /* OPTIONAL: Google Fonts - base font */
   font-weight: 300;
   font-size: 16px;
@@ -70,7 +70,7 @@ a:after {
 /* Header Wrap */
 .header {
   background: #1CBCAD;
-  background: url(../images/treeback.png) no-repeat center top;
+  background: url(../images/treespic.jpg) no-repeat center top;
   padding-top:140px;
   text-align:center;
   background-attachment: relative;
