@@ -76,13 +76,13 @@ a:after {
 /* Header Wrap */
 .header {
   background: #1CBCAD;
-  background: url(../images/https://businessj.jpg) no-repeat center top;
+  background: url(../images/https://treeback.png) no-repeat center top;
   padding-top:140px;
   text-align:center;
   background-attachment: relative;
   background-position: center center;
   min-height: 500px;
-  width: 80%;
+  width: 100%;
 
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
