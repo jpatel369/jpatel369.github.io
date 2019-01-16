@@ -76,7 +76,7 @@ a:after {
 /* Header Wrap */
 .header {
   background: #1CBCAD;
-  background: url(../images/businessj.jpg) no-repeat center top;
+  background: url(../images/treeback.png) no-repeat center top;
   padding-top:140px;
   text-align:center;
   background-attachment: relative;
@@ -127,7 +127,7 @@ a:after {
 }
 .about i {
   color: #E9C893;
-  font-size: 20px;
+  font-size: 25px;
   padding-right: 8px;
   vertical-align: middle;
 }
